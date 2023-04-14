@@ -1,0 +1,4 @@
+name: my-workflow-with-multiple-jobs
+on: [workflow_dispatch]
+jobs:  
+  my-first-job:
